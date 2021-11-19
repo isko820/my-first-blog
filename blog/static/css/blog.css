@@ -1,5 +1,5 @@
 h1 a {
-    color: #042039;
+    color: #0e0c4b;
     font-family: 'Montagu Slab';
 }
 body {
@@ -26,7 +26,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #e8d310;
 }
 
 .save {
@@ -49,5 +49,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #042039;
+    color: #dd940e;
 }
